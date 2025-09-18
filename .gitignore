@@ -64,6 +64,7 @@ debug.log
 *.bak
 *.backup
 *~
+scp-webp-converter-backup.php.back
 
 # Documentation drafts
 /docs/drafts/
